@@ -5,7 +5,7 @@
   "main": "Diamond.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Diamond.js"
+    "start": "node."
   },
   "author": "Romeo Jersen Eugenio",
   "license": "MIT"
